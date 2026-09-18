@@ -1,0 +1,6 @@
+{
+  "name": "الموقع تحت الصيانة",
+  "description": "الموقع حالياً تحت الصيانة، يمكنكم التوجه إلى رابط الموقع الجديد.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
